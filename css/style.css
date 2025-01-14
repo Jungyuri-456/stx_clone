@@ -8,9 +8,9 @@ a {
   text-decoration: none;
   color: #333;
 }
-body {
+/* body {
   height: 1500px;
-}
+} */
 /* 공통영역 */
 .container {
   width: 100%;
@@ -272,5 +272,5 @@ height: 420px;
   background-color: rgba(244, 128, 37, 0);
 }
 .business-list> li >a:hover{
-  background-color: rgba(244, 128, 37, 1);
+  background-color: rgba(244, 128, 37, );
 }
